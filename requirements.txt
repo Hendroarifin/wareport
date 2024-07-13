@@ -1,3 +1,2 @@
-streamlit
 neonize
-pyqt5
+
